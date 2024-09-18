@@ -57,7 +57,7 @@ We used the **Adult Census Income Dataset** from the UCI Machine Learning Reposi
 - **Attributes**: Age, workclass, education, marital status, occupation, relationship, race, sex, capital gain, capital loss, hours per week, and income.
 - **Sensitive Attributes**: Income, capital gain, capital loss.
 - **Quasi-identifiers**: Age, workclass, education level.
-[Dataset URL](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
+### [Dataset URL](https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
 ---
 
 ## Results and Visualizations
